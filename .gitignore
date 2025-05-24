@@ -21,3 +21,6 @@ yarn-error.log*
 
 # Datamining
 /datamining/pack/*
+/datamining/xapk/*
+/datamining/**/*.apk
+/datamining/**/*.xapk
